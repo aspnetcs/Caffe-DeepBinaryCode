@@ -4,6 +4,11 @@ Supervised Learning of Semantics-Preserving Deep Hashing (SSDH)
 
 Created by Kevin Lin, Huei-Fang Yang, and Chu-Song Chen at Academia Sinica, Taipei, Taiwan.
 
+# Paper
+https://arxiv.org/pdf/1507.00101v2
+
+# Reference
+H. Yang, K. Lin and C. Chen, "Supervised Learning of Semantics-Preserving Hash via Deep Convolutional Neural Networks," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 40, no. 2, pp. 437-451, 1 Feb. 2018, doi: 10.1109/TPAMI.2017.2666812.
 
 ## Introduction
 
